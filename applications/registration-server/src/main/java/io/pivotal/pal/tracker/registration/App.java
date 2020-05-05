@@ -7,7 +7,6 @@ import org.springframework.context.annotation.ComponentScan;
 
 import java.util.TimeZone;
 
-
 @SpringBootApplication
 @EnableEurekaClient
 @ComponentScan({
